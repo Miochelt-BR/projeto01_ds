@@ -56,7 +56,7 @@ Contribuições para este projeto são bem-vindas! Se você tiver sugestões, me
 
 ## Contato / Contact
 
-Para quaisquer dúvidas ou feedback sobre este projeto, você pode entrar em contato comigo em [seu.email@example.com](mailto:seu.email@example.com).
+Para quaisquer dúvidas ou feedback sobre este projeto, você pode entrar em contato comigo em thiago.arica@outlook.com
 
 ---
 
