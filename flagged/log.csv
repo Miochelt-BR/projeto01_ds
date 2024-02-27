@@ -1,0 +1,10 @@
+Year,Month,Flights Booked,Flights with Companions,Total Flights,Distance,Points Accumulated,Salary,CLV,output,flag,username,timestamp
+5,52,2,3,0,0,0,4,54,"{""label"":null,""confidences"":null}",,,2024-02-27 01:49:43.914253
+1,6,2,5,2,2,-2,4,43,"{""label"":null,""confidences"":null}",,,2024-02-27 01:50:19.785882
+1,6,2,5,2,2,-2,4,43,"{""label"":null,""confidences"":null}",,,2024-02-27 01:50:25.969364
+2,0,0,0,0,0,0,0,"{""label"":null,""confidences"":null}",,,2024-02-27 01:50:53.293216
+1,1,1,2,1,4,4,4,"{""label"":null,""confidences"":null}",,,2024-02-27 01:51:15.763649
+1,1,1,2,1,4,4,4,"{""label"":null,""confidences"":null}",,,2024-02-27 01:51:31.523667
+1,1,1,2,1,4,4,4,"{""label"":null,""confidences"":null}",,,2024-02-27 01:52:25.735507
+2,221545,,,,2024-02-27 01:53:27.473128
+0,2,0,0,0,0,0,0,"{""label"":null,""confidences"":null}",,,2024-02-27 01:54:23.551472
